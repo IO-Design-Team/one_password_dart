@@ -1,0 +1,18 @@
+name: one_password_dart
+description: Inject 1Password secrets into all reference files in the current directory
+version: 1.0.0
+homepage: https://www.example.com
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  ansicolor: ^2.0.1
+  pub_update_checker: ^1.2.0
+
+dev_dependencies:
+  rexios_lints: ^4.0.0
+  test: ^1.16.0
+
+executables:
+  opd: bin/one_password_dart.dart
