@@ -1,7 +1,7 @@
 name: one_password_dart
 description: Inject 1Password secrets into all reference files in the current directory
 version: 1.0.0
-homepage: https://www.example.com
+homepage: https://github.com/IO-Design-Team/one_password_dart
 
 environment:
   sdk: ">=2.18.0 <3.0.0"
